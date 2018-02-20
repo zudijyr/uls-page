@@ -12,7 +12,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Tunnels to the Caves of Steel</h1>
         </header>
-        <img src={cargo_cap} className="cargoCapPic" />
+        <img src={cargo_cap} className="cargoCapPic" alt="cargo cap visualization" />
   		<body className="App-body">
 			<div id="index" className="box">
 				<p> I want to learn web programming, specifically react.js</p> 
